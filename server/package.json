@@ -4,10 +4,8 @@
   "description": "Production-ready dealer CRM backend (Express + MongoDB)",
   "main": "src/index.js",
   "scripts": {
-    "dev": "nodemon src/index.js",
-    "start": "node src/index.js",
-    "seed": "node src/seed.js",
-    "test": "jest"
+    "dev": "nodemon index.js",
+    "start": "node index.js",
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
