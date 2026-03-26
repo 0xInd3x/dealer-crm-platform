@@ -105,8 +105,6 @@ To build a **robust and scalable CRM platform** that enables:
 
 ### Frontend
 - React.js
-- Axios
-- Tailwind CSS
 
 ### Backend
 - Node.js
