@@ -148,7 +148,7 @@ npm run dev
 
 ### 3. Frontend Setup
 ```
-cd frontend
+cd client
 npm install
 npm start
 ```
